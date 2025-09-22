@@ -3,7 +3,7 @@
 
           
 > Yifei Wang, Weimin Bai, Colin Zhang, Debing Zhang, Weijian Luo, He Sun       
-> *NeurIPS 2024 ([arXiv 2505.20755](https://arxiv.org/abs/2505.20755))*  
+> *NeurIPS 2025 ([arXiv 2505.20755](https://arxiv.org/abs/2505.20755))*  
 
 ## Contact 
 
