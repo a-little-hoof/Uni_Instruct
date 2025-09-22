@@ -9,8 +9,8 @@
 
 Feel free to contact us if you have any questions about the paper!
 
-Yifei Wang [yw251@rice.edu](mailto:yw251@rice.edu)
-Weijian Luo [luoweijian@xiaohongshu.com](mailto:luoweijian@xiaohongshu.com)
+- Yifei Wang [yw251@rice.edu](mailto:yw251@rice.edu)
+- Weijian Luo [luoweijian@xiaohongshu.com](mailto:luoweijian@xiaohongshu.com)
 
 ## Abstract
 
